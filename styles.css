@@ -1,0 +1,9 @@
+ * {
+    box-sizing: border-box;
+ }
+
+ :root{
+    --color-bg: hsl(50,70%,70%) ;
+    --font-style: sans-serif;
+    --font-color: hsl(50,50%,20%);
+ }
