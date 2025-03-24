@@ -7,3 +7,9 @@
     --font-style: sans-serif;
     --font-color: hsl(50,50%,20%);
  }
+
+body {
+    background-color: var(--color-bg);
+    font-style: var(--font-style);
+    color: var(--font-color);
+}
