@@ -1,0 +1,2 @@
+juanito: 1000 
+Carlos: 3000
